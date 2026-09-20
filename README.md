@@ -4,7 +4,7 @@ Automated data pipeline that fetches repository data from the GitHub API and gen
 
 ## Dashboard Preview
 
-![GitHub Analytics Dashboard](data/github_dashboard_lab.svg)
+![GitHub Analytics Dashboard](data/github_dashboard.svg)
 
 ## Features
 

@@ -29,7 +29,7 @@ jobs:
         
       - name: Generate dashboard
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.MATRICS_TOKEN }}
           USERNAME: ${{ secrets.USERNAME }}
           DASHBOARD_THEME: ${{ vars.DASHBOARD_THEME || 'divergence' }}
         run: |
